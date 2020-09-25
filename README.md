@@ -1,3 +1,3 @@
 # simpleCalculator
-<img src="images/filenamescreen.png>
+<img src="images/screen.png>
 
