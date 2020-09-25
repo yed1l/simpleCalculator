@@ -1,3 +1,3 @@
 # simpleCalculator
-![](image/filename screen.png)
+![](images/filename screen.png)
 
